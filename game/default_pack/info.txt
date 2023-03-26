@@ -1,0 +1,10 @@
+player:player.png
+wall:wall.png
+background-game:bg.jpg
+background-menu:bg.jpg
+background-texture:bg.jpg
+background-settings:bg.jpg
+button-play:button.jpg
+button-settings:settings.png
+button-packs:texture.png
+font:font.ttf

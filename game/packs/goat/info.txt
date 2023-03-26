@@ -1,0 +1,2 @@
+player:goat.jpg
+background-game:bg.jpg
