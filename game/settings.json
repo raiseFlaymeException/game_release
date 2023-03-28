@@ -6,5 +6,6 @@
         "up": 1073741906
     },
     "pathToDefaultPack": "default_pack",
-    "pathToPacks": "packs"
+    "pathToPacks": "packs",
+    "pathToMaps": "maps.json"
 }
