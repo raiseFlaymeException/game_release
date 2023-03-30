@@ -1,10 +1,14 @@
-player:player.png
+player-1:player.png
+player-2:player.png
+bullet-1:bullet.png
+bullet-2:bullet.png
 wall:wall.png
 background-game:bg.jpg
 background-menu:bg.jpg
 background-texture:bg.jpg
 background-settings:bg.jpg
-button-play:button.jpg
+label:wall.png
+button:button.jpg
 button-settings:settings.png
 button-packs:texture.png
 font:font.ttf

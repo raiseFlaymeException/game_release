@@ -1,2 +1,3 @@
-player:goat.jpg
+player-1:goat.jpg
+player-2:goat.jpg
 background-game:bg.jpg

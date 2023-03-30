@@ -1,11 +1,23 @@
 {
-    "keys": {
-        "down": 1073741905,
-        "left": 1073741904,
-        "right": 1073741903,
-        "up": 1073741906
-    },
+    "keys": [
+        {
+            "down": 120,
+            "left": 119,
+            "lock": 100,
+            "right": 99,
+            "shoot": 118,
+            "up": 115
+        },
+        {
+            "down": 1073741905,
+            "left": 1073741904,
+            "lock": 33,
+            "right": 1073741903,
+            "shoot": 1073742053,
+            "up": 1073741906
+        }
+    ],
     "pathToDefaultPack": "default_pack",
-    "pathToPacks": "packs",
-    "pathToMaps": "maps.json"
+    "pathToMaps": "maps.json",
+    "pathToPacks": "packs"
 }
