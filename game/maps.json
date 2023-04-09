@@ -15,6 +15,6 @@
             ["w/2-w/40", "h/6*5", "w/20", "h/6"]
         ],
         "bulletPowerUp": ["w/2-wbu/2", "h/2-hbu/2"],
-        "balloonPowerUp": ["0", "0"]
+        "balloonPowerUp": ["w/2-wba/2", "h/6+2"]
     }
 }
