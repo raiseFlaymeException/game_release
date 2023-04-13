@@ -1,5 +1,5 @@
-player-1:player.png
-player-2:player.png
+player-1:player1.png
+player-2:player2.png
 bullet-1:bullet1.png
 bullet-2:bullet2.png
 bullet-para-1:bullet_para1.png
