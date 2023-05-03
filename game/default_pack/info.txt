@@ -1,5 +1,7 @@
 player-1:player1.png
 player-2:player2.png
+wand-1:wand1.png
+wand-2:wand2.png
 ghost-1:ghost1.png
 ghost-2:ghost2.png
 mine-1:mine1.png
