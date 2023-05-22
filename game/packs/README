@@ -1,0 +1,16 @@
+CREATE A PACK OF TEXTURE:
+edit file in the folder packs called info.txt.
+change the writing by the folder you wan't to use.
+inside the folder put another info.txt
+in this file write a keyword (see KEYWORD) then : and then the name of the file (with the extension)
+
+example:
+(inside info.txt)
+base_pack
+(inside the folder base_pack)
+(inside the file info.txt in base_pack)
+player:player.jpg
+
+end example
+KEYWORD:
+player (the player)
