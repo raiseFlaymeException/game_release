@@ -14,12 +14,12 @@ bullet-para-1:bullet_para1.png
 bullet-para-2:bullet_para2.png
 bullet-tp-1:bullet_tp1.png
 bullet-tp-2:bullet_tp2.png
-bullet-bounce-1:wall.png
-bullet-bounce-2:wall.png
+bullet-bounce-1:bullet1.png
+bullet-bounce-2:bullet2.png
 tp-1:tp1.png
 tp-2:tp2.png
-bat-1:wall.png
-bat-2:wall.png
+bat-1:bat1.png
+bat-2:bat2.png
 bullet-powerup:button_game.png
 balloon-powerup:balloon.png
 wall:wall.png
@@ -27,7 +27,9 @@ background-game:bg.jpg
 background-menu:bg.jpg
 background-texture:bg.jpg
 background-settings:bg.jpg
+background-gear:bg.jpg
 button:button.jpg
 button-settings:settings.png
 button-packs:texture.png
+button-gear:gear.png
 font:font.ttf

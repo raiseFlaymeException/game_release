@@ -35,5 +35,6 @@
     ],
     "pathToDefaultPack": "default_pack",
     "pathToMaps": "maps.json",
-    "pathToPacks": "packs"
+    "pathToPacks": "packs",
+    "pathToGears": "gears.json"
 }
