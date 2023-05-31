@@ -12,7 +12,6 @@
             "attack 9": 116,
             "down": 120,
             "left": 119,
-            "lock": 113,
             "right": 99,
             "up": 115
         },
@@ -28,13 +27,12 @@
             "attack 9": 112,
             "down": 1073741905,
             "left": 1073741904,
-            "lock": 1073741901,
             "right": 1073741903,
             "up": 1073741906
         }
     ],
     "pathToDefaultPack": "default_pack",
+    "pathToGears": "gears.json",
     "pathToMaps": "maps.json",
-    "pathToPacks": "packs",
-    "pathToGears": "gears.json"
+    "pathToPacks": "packs"
 }
