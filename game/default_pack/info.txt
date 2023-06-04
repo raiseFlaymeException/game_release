@@ -28,8 +28,10 @@ background-menu:bg.jpg
 background-texture:bg.jpg
 background-settings:bg.jpg
 background-gear:bg.jpg
+background-map:bg.jpg
 button:button.jpg
 button-settings:settings.png
 button-packs:texture.png
 button-gear:gear.png
+button-map:map.png
 font:font.ttf
