@@ -22,6 +22,7 @@ bat-1:bat1.png
 bat-2:bat2.png
 bullet-powerup:button_game.png
 balloon-powerup:balloon.png
+laser:laser.png
 wall:wall.png
 background-game:bg.jpg
 background-menu:bg.jpg
