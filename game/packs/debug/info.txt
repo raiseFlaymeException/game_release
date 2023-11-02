@@ -20,11 +20,14 @@ tp-1:1.png
 tp-2:2.png
 bat-1:1.png
 bat-2:2.png
-laser:0.png
+laser-1:1.png
+laser-2:2.png
 smoke-1:1.png
 smoke-2:2.png
 bullet-powerup:0.png
 balloon-powerup:0.png
+balloon-powerup-1:1.png
+balloon-powerup-2:2.png
 wall:0.png
 background-game:bg.jpg
 background-menu:bg.jpg
