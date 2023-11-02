@@ -25,6 +25,8 @@ smoke-1:smoke1.png
 smoke-2:smoke2.png
 bullet-powerup:button_game.png
 balloon-powerup:balloon.png
+balloon-powerup-1:balloon1.png
+balloon-powerup-2:balloon2.png
 wall:wall.png
 background-game:bg.jpg
 background-menu:bg.jpg
